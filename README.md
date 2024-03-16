@@ -7,21 +7,12 @@ A CRUD application is a fundamental type of software that performs four key oper
 ## Project Type
 | Backend | 
 
-## Deplolyed App
-Frontend: https://deployed-site.whatever
-Backend: https://deployed-site.whatever
-Database: https://deployed-site.whatever
+
+
 
 ## Directory Structure
 src/
-├─ backend/
-├─ 
 
-## Video Walkthrough of the project
-Attach a very short video walkthough of all of the features [ 1 - 3 minutes ]
-
-## Video Walkthrough of the codebase
-Attach a very short video walkthough of codebase [ 1 - 5 minutes ]
 
 ## Features
 List out the key features of your application.
